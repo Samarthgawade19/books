@@ -109,7 +109,7 @@ include("header.php");
       <div class="card" style="width: 10rem;">
         <img src=" images/product-item3.png" class="img-fluid shadow-sm" alt="product item">
         <div class="card-body">
-          <h5 class="card-title">Shadow of the Serpent</h5>
+          <h5 class="card-title">Shadow of the Serpent hi</h5>
           <!-- Button trigger modal -->
           <div class="row">
             <div class="col-6">
